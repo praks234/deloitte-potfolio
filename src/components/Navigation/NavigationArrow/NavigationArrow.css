@@ -1,0 +1,23 @@
+.Left span {
+    position: absolute;
+    bottom: 10%;
+    
+}
+.Left span:after {
+    content: '<';
+    font-size: 15px;
+    color: #3f597c;
+    cursor: pointer;
+}
+
+.Right span {
+    position: absolute;
+    bottom: 10%;
+    
+}
+.Right span:after {
+    content: '>';
+    font-size: 15px;
+    color: #3f597c;
+    cursor: pointer;
+}

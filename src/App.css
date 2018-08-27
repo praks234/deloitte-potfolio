@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  height: -webkit-fill-available;
+  background-color: antiquewhite;
+  color: #3f597c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
